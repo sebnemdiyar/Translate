@@ -4,12 +4,12 @@ Modern, responsive, kullanıcı dostu ve dinamik bir dil çeviri uygulaması. Bu
 
 ## ✨ Özellikler
 
-* **Çoklu Dil Desteği:** Geniş dil seçenekleri arasında anında geçiş imkanı.
-* **Dinamik Dil Seçimi (`react-select`):** Arama yapılabilen ve kullanıcı deneyimini artıran modern açılır menüler.
-* **Merkezi State Yönetimi (`Redux Toolkit`):** Çeviri metinlerinin, seçilen dillerin ve API yanıtlarının güvenli ve ölçeklenebilir bir şekilde yönetilmesi.
-* **Asenkron İstek Yönetimi (`Axios`):** Çeviri servisleriyle güvenli ve performanslı HTTP iletişim.
-* **Modern ve Responsive Arayüz (`Tailwind CSS`):** Mobil uyumlu, şık ve sade tasarım.
-* **Zengin İkon Görselleştirmesi (`Lucide-react`):** Arayüzü zenginleştiren modern ve hafif vektörel ikonlar.
+* Geniş dil seçenekleri arasında anında geçiş imkanı.
+* Arama yapılabilen ve kullanıcı deneyimini artıran modern açılır menüler.
+* Çeviri metinlerinin, seçilen dillerin ve API yanıtlarının güvenli ve ölçeklenebilir bir şekilde yönetilmesi.
+* Çeviri servisleriyle güvenli ve performanslı HTTP iletişim.
+* Mobil uyumlu, şık ve sade tasarım.
+* Arayüzü zenginleştiren modern ve hafif vektörel ikonlar.
 
 ## 🛠️ Kullanılan Teknolojiler
 
